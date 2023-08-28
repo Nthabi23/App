@@ -1,0 +1,108 @@
+body {
+    background: linear-gradient(to top, #209cff 0%, #68e0cf 100%);
+}
+
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    color: azure;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.fa-solid {
+    color: red;
+}
+
+p {
+    color: bisque;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 15px;
+}
+
+.seeker {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.enter {
+    background: #ffffff;
+    color: rgb(5, 29, 248);
+    font-size: 18px;
+    padding: 5px 5px;
+    border: 1px solid rgb(5, 29, 248);
+    box-shadow: 0px 0.5px 0px rgb(5, 29, 248);
+    border-radius: 20px;
+}
+
+.insert {
+    background: #ffffff;
+    color: rgb(5, 29, 248);
+    font-size: 18px;
+    padding: 5px 5px;
+    border: 1px solid rgb(5, 29, 248);
+    box-shadow: 0px 0.5px 0px rgb(5, 29, 248);
+    border-radius: 20px;
+}
+
+input:hover {
+    border: rgb(5, 29, 248);
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: rgb(5, 29, 248);
+    color: white;
+    cursor: pointer;
+}
+
+.ecosystem {
+    position: fixed;
+    top: 50px;
+    right: 100px;
+}
+
+.time {
+    font-size: 50px;
+}
+
+.temperature {
+    font-size: 50px;
+}
+
+img {
+    top: 50px;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    width: 300px;
+    border: 0px;
+}
+
+.fa-cloud-sun {
+    font-size: 30px;
+    text-align: center;
+}
+
+.fa-sun {
+    color: rgb(255, 210, 10);
+    font-size: 30px;
+    display: block;
+}
+
+.fa-cloud-rain {
+    color: blue;
+    font-size: 30px;
+    display: block;
+}
+
+.fa-cloud {
+    color: lightskyblue;
+    font-size: 30px;
+    display: block;
+}
